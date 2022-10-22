@@ -1,5 +1,4 @@
 name: introduction
-title: Introduction
 version: 1.0
 nav:
 - modules/ROOT/nav.adoc
