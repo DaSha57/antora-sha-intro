@@ -1,0 +1,3 @@
+= Terminal Integration Page
+
+This is page for Seven terminal integration.
