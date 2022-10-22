@@ -1,0 +1,5 @@
+name: seven-platform-101
+title: Seven Platform 101
+version: 1.0
+nav:
+- modules/ROOT/nav.adoc
