@@ -1,0 +1,24 @@
+= Introduction
+
+This is an interactive editor.
+Use it to try https://asciidoc.org[AsciiDoc].
+
+== Ticket Payin
+
+* A list item
+* Another list item
+
+== Ticket Payout
+
+* A list item
+* Another list item
+
+== Ticket Cancel
+
+* A list item
+* Another list item
+
+[,php]
+----
+puts 'Hello, World!'
+----
