@@ -1,7 +1,4 @@
-= Introduction
-
-This is an interactive editor.
-Use it to try https://asciidoc.org[AsciiDoc].
+Seven Platform is..............
 
 == Ticket Payin
 
