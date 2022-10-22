@@ -1,3 +1,7 @@
 name: introduction
 title: Introduction
 version: 1.0
+nav:
+- modules/ROOT/pages/introduction.adoc
+- modules/ROOT/pages/terminal-integration.adoc
+- modules/ROOT/pages/shop-integration.adoc
