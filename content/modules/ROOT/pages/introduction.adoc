@@ -5,17 +5,17 @@ Use it to try https://asciidoc.org[AsciiDoc].
 
 == Ticket Payin
 
-* A list item
+* Payin...
 * Another list item
 
 == Ticket Payout
 
-* A list item
+* Payout...
 * Another list item
 
 == Ticket Cancel
 
-* A list item
+* Cancel...
 * Another list item
 
 [,php]
