@@ -1,0 +1,3 @@
+= Shop Integration Page
+
+This is page for Seven shop integration.
