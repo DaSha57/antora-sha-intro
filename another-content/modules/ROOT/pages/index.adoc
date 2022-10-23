@@ -2,6 +2,6 @@
 
 7Platform sha shafsdfdsg dg
 
-image::seven-platform-101.jpg
+image::seven-platform-101.jpg[]
 
 Something else goes here...
