@@ -1,3 +1,7 @@
 = What is 7Platform
 
 7Platform sha shafsdfdsg dg
+
+image::seven-platform-101.jpg
+
+Something else goes here...
