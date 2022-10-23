@@ -1,2 +1,2 @@
-* xref:what-is-seven-platform.adoc[]
+* xref:index.adoc[]
 * xref:seven-channels.adoc[]
