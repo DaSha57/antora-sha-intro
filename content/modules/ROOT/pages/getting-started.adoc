@@ -1,7 +1,6 @@
 = Getting Started
 
-This is an interactive editor.
-Use it to try https://asciidoc.org[AsciiDoc].
+In this section, we talk about blablablablabla.
 
 == Ticket Payin
 
